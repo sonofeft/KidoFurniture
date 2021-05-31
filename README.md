@@ -6,11 +6,11 @@
 
 <table width="100%">
 <tr>
-<td width="40%">
+<td width="50%">
 <img src="./images/chest_of_drawers.jpg">
 </td>
 <td>
-<img src="./dimensions/chest_of_drawers.jpg" ; width="60%">
+<img src="./dimensions/chest_of_drawers.jpg" >
 </td>
 </tr>
 </table>
@@ -20,11 +20,11 @@
 
 <table width="100%">
 <tr>
-<td width="40%">
+<td width="50%">
 <img src="./images/computer_table.jpg">
 </td>
 <td>
-<img src="./dimensions/computer_table.jpg" ; width="60%">
+<img src="./dimensions/computer_table.jpg" >
 </td>
 </tr>
 </table>
@@ -33,11 +33,11 @@
 
 <table width="100%">
 <tr>
-<td width="40%">
+<td width="50%">
 <img src="./images/dining_platter_cabinet.jpg">
 </td>
 <td>
-<img src="./dimensions/dining_platter_cabinet.jpg" ; width="60%">
+<img src="./dimensions/dining_platter_cabinet.jpg" >
 </td>
 </tr>
 </table>
@@ -49,11 +49,11 @@
 
 <table width="100%">
 <tr>
-<td width="40%">
+<td width="50%">
 <img src="./images/dining_room_upper.jpg">
 </td>
 <td>
-<img src="./dimensions/dining_room_upper.jpg" ; width="60%">
+<img src="./dimensions/dining_room_upper.jpg" >
 </td>
 </tr>
 </table>
@@ -61,11 +61,11 @@
 
 <table width="100%">
 <tr>
-<td width="40%">
+<td width="50%">
 <img src="./images/dining_room_lower.jpg">
 </td>
 <td>
-<img src="./dimensions/dining_room_lower.jpg" ; width="60%">
+<img src="./dimensions/dining_room_lower.jpg" >
 </td>
 </tr>
 </table>
@@ -74,11 +74,11 @@
 
 <table width="100%">
 <tr>
-<td width="40%">
+<td width="50%">
 <img src="./images/double_chest_of_drawers.jpg">
 </td>
 <td>
-<img src="./dimensions/double_chest_of_drawers.jpg" ; width="60%">
+<img src="./dimensions/double_chest_of_drawers.jpg" >
 </td>
 </tr>
 </table>
@@ -88,11 +88,11 @@
 
 <table width="100%">
 <tr>
-<td width="40%">
+<td width="50%">
 <img src="./images/family_room_case_x3_v2.jpg">
 </td>
 <td>
-<img src="./dimensions/family_room_case_w_shelves.jpg" ; width="60%">
+<img src="./dimensions/family_room_case_w_shelves.jpg" >
 </td>
 </tr>
 </table>
@@ -101,11 +101,11 @@
 
 <table width="100%">
 <tr>
-<td width="40%">
+<td width="50%">
 <img src="./images/family_room_case.jpg">
 </td>
 <td>
-<img src="./dimensions/family_room_case.jpg" ; width="60%">
+<img src="./dimensions/family_room_case.jpg" >
 </td>
 </tr>
 </table>
@@ -114,11 +114,11 @@
 
 <table width="100%">
 <tr>
-<td width="40%">
+<td width="50%">
 <img src="./images/family_room_table.jpg">
 </td>
 <td>
-<img src="./dimensions/family_room_table.jpg" ; width="60%">
+<img src="./dimensions/family_room_table.jpg" >
 </td>
 </tr>
 </table>
@@ -127,11 +127,11 @@
 
 <table width="100%">
 <tr>
-<td width="40%">
+<td width="50%">
 <img src="./images/family_room_table_w_leaf.jpg">
 </td>
 <td>
-<img src="./dimensions/family_room_table_w_leaf.jpg" ; width="60%">
+<img src="./dimensions/family_room_table_w_leaf.jpg" >
 </td>
 </tr>
 </table>
@@ -140,11 +140,11 @@
 
 <table width="100%">
 <tr>
-<td width="40%">
+<td width="50%">
 <img src="./images/hinge_expanding_table.jpg">
 </td>
 <td>
-<img src="./dimensions/hinge_expanding_table.jpg" ; width="60%">
+<img src="./dimensions/hinge_expanding_table.jpg" >
 </td>
 </tr>
 </table>
@@ -153,11 +153,11 @@
 
 <table width="100%">
 <tr>
-<td width="40%">
+<td width="50%">
 <img src="./images/hinge_table_lengthened.jpg">
 </td>
 <td>
-<img src="./dimensions/hinge_table_lengthened.jpg" ; width="60%">
+<img src="./dimensions/hinge_table_lengthened.jpg" >
 </td>
 </tr>
 </table>
@@ -166,11 +166,11 @@
 
 <table width="100%">
 <tr>
-<td width="40%">
+<td width="50%">
 <img src="./images/secretary.jpg">
 </td>
 <td>
-<img src="./dimensions/secretary.jpg" ; width="60%">
+<img src="./dimensions/secretary.jpg" >
 </td>
 </tr>
 </table>
@@ -179,11 +179,11 @@
 
 <table width="100%">
 <tr>
-<td width="40%">
+<td width="50%">
 <img src="./images/stationary_cabinet.jpg">
 </td>
 <td>
-<img src="./dimensions/stationary_cabinet.jpg" ; width="60%">
+<img src="./dimensions/stationary_cabinet.jpg" >
 </td>
 </tr>
 </table>
