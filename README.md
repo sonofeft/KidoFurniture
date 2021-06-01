@@ -29,6 +29,20 @@
 </tr>
 </table>
 
+## File Cabinet Desk
+
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="./images/file_cabinet_desk.jpg">
+</td>
+<td>
+<img src="./dimensions/file_cabinet_desk.jpg" >
+</td>
+</tr>
+</table>
+
+
 ## Sliding Door Cabinet for Platters
 
 <table width="100%">
