@@ -115,7 +115,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="40%">
 <img src="./images/family_room_case.jpg">
 </td>
 <td>
@@ -180,7 +180,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="40%">
 <img src="./images/secretary.jpg">
 </td>
 <td>
