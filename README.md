@@ -2,6 +2,8 @@
 
 # Furniture designs that my father-in-law made
 
+Note that glb file units are inches, not meters.
+
 ## Chest of Drawers
 
 <table width="100%">
@@ -198,6 +200,42 @@
 </td>
 <td>
 <img src="./dimensions/stationary_cabinet.jpg" >
+</td>
+</tr>
+</table>
+
+## Wall-Mounted Book Shelves
+(There are 2 assemblies of 2 book shelves (total of 4) )
+
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="./images/wall_mounted_book_case_assembly.jpg">
+</td>
+<td>
+<img src="./dimensions/wall_mounted_book_case_assembly.jpg" >
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="./images/wall_mounted_book_case_v2.jpg">
+</td>
+<td>
+<img src="./dimensions/wall_mounted_book_case_v2.jpg" >
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="./images/wall_mounted_book_case.jpg">
+</td>
+<td>
+<img src="./dimensions/wall_mounted_book_case.jpg" >
 </td>
 </tr>
 </table>
